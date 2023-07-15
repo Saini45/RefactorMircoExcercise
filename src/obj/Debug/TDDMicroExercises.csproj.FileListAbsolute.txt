@@ -1,9 +1,0 @@
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.dll
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.pdb
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.dll
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.xml
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.AssemblyReference.cache
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CoreCompileInputs.cache
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CopyComplete
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.dll
-C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.pdb
