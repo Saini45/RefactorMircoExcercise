@@ -1,0 +1,26 @@
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.dll
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.pdb
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.dll
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.xml
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.AssemblyReference.cache
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CoreCompileInputs.cache
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CopyComplete
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.dll
+C:\Users\eraru\Downloads\RefactorMircoExcercise-master (1)\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.pdb
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.pdb
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\Castle.Core.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\Moq.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\Castle.Core.xml
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\Moq.xml
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.xml
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.AssemblyReference.cache
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CoreCompileInputs.cache
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CopyComplete
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.dll
+C:\Users\eraru\Desktop\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.pdb
